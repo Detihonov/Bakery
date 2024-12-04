@@ -125,11 +125,12 @@ nav {
     color:red;
 }
 
-.description_text{
+.description_text-box p{
     font-size: 18px;
     text-align: center;
     width: 1000px;
     margin: 0 auto;
+    margin-bottom: 20px;
 }
 
 .sectiom-map{
